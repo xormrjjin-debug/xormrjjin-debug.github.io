@@ -241,3 +241,7 @@
     display: block; font-size: clamp(24px, 2.8vw, 32px); line-height: 1.3;
     letter-spacing: -0.035em; color: var(--ink); margin-bottom: 8px;
   }
+
+  /* 본문은 보통 굵기, 핵심 단어만 굵게 */
+  .row .a, .spec dd, .quote p, .hero-foot .intro { font-weight: 400; }
+  .row .a strong, .spec dd strong, .quote p strong, .hero-foot .intro strong { font-weight: 700; }
