@@ -4,7 +4,7 @@
     --mute: #8c8b87;
     --rule: #0e0e0e;
     --hair: #d6d4cf;
-    --hot: #ff4a1c;
+    --hot: #3552c4;
     --sans: "Pretendard Variable", "Pretendard", -apple-system, sans-serif;
     --mono: var(--sans);
     --serif: var(--sans);
@@ -16,6 +16,7 @@
       --mute: #77766f;
       --rule: #efeee9;
       --hair: #262624;
+      --hot: #8fa3ec;
     }
   }
 
