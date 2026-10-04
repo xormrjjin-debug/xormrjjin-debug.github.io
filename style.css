@@ -4,7 +4,7 @@
     --mute: #8c8b87;
     --rule: #0e0e0e;
     --hair: #d6d4cf;
-    --hot: #3552c4;
+    --hot: #ff4a1c;
     --sans: "Pretendard Variable", "Pretendard", -apple-system, sans-serif;
     --mono: var(--sans);
     --serif: var(--sans);
@@ -16,7 +16,6 @@
       --mute: #77766f;
       --rule: #efeee9;
       --hair: #262624;
-      --hot: #8fa3ec;
     }
   }
 
@@ -240,5 +239,5 @@
 
   .spec .ans {
     display: block; font-size: clamp(24px, 2.8vw, 32px); line-height: 1.3;
-    letter-spacing: -0.035em; color: var(--hot); margin-bottom: 8px;
+    letter-spacing: -0.035em; color: var(--ink); margin-bottom: 8px;
   }
